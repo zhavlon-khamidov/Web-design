@@ -1,0 +1,43 @@
+/* font-family: 'Protest Riot', sans-serif; */
+
+p, h1, li, a {
+    color: red;
+}
+
+img {
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Protest Riot', sans-serif;
+}
+
+#footer {
+    color: blue;
+    text-align: center;
+    font-size: 8px;
+}
+
+.small-p {
+    line-height: 2;
+    border: 5px dashed black;
+    margin: 15px;
+    padding: 15px;
+}
+
+a {display: inline;}
+
+p{
+
+}
+
+.big-p {
+    border: 5px dashed black;
+    letter-spacing: -1px;
+}
+
+li:hover {
+    color: chartreuse;
+}
